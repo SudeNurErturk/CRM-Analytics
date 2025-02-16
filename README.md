@@ -3,16 +3,20 @@ MÜŞTERİ İLİŞKİLERİ YÖNETİMİ
 
 var olan müşteriyi elde tutma çabası
 
+
 customer lifecycle/ journal
 iletişim
 müşteri edinme 
 cross-sell -> tamamlayıcı paket 
 up-sell-> ürün yükseltme
 
-CRM Analtiği
+CRM ANALİTİĞİ
+
+
 müşteri ilişkileri sürecini veri bilgilerine dayalı yönetmek
 
 KPI (Temel Performans Göstergeleri)
+
 Örnekler 
 performans değerlendirmek için kullanılan matematiksel yöntem
 Customer Acquisition Rate (kazanma oranı)
