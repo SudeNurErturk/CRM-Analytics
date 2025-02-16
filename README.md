@@ -1,5 +1,6 @@
 CRM 
 MÜŞTERİ İLİŞKİLERİ YÖNETİMİ 
+
 var olan müşteriyi elde tutma çabası
 
 customer lifecycle/ journal
