@@ -1,48 +1,69 @@
+### CRM: Müşteri İlişkileri Yönetimi  
 
-CRM MÜŞTERİ İLİŞKİLERİ YÖNETİMİ
+#### Var Olan Müşteriyi Elde Tutma Çabası  
+- **Customer Lifecycle / Journey**  
+  - **İletişim**  
+  - **Müşteri edinme**  
+  - **Cross-sell** → Tamamlayıcı paket satışı  
+  - **Up-sell** → Ürün yükseltme  
 
-var olan müşteriyi elde tutma çabası
+---
 
-customer lifecycle/ journal
- iletişim 
-müşteri edinme
- cross-sell -> tamamlayıcı paket 
-up-sell-> ürün yükseltme
+### CRM Analitiği  
 
-CRM ANALİTİĞİ
+Müşteri ilişkileri sürecini **veri bilgilerine dayalı** yönetmek  
 
-müşteri ilişkileri sürecini veri bilgilerine dayalı yönetmek
+#### **KPI (Temel Performans Göstergeleri)**  
 
-KPI (Temel Performans Göstergeleri)
+Performans değerlendirmek için kullanılan matematiksel yöntemler  
 
-Örnekler 
-performans değerlendirmek için kullanılan matematiksel yöntem 
-Customer Acquisition Rate (kazanma oranı) 
-Customer Retention Rate(elde tutma oranı)
- Customer Churn Rate (Terk Oranı) 
-Conversion Rate (Dönüşüm Oranı) 
-Growth Rate (Büyüme Oranı) 
+**Örnekler:**  
+- **Customer Acquisition Rate** → Kazanma oranı  
+- **Customer Retention Rate** → Elde tutma oranı  
+- **Customer Churn Rate** → Terk oranı  
+- **Conversion Rate** → Dönüşüm oranı  
+- **Growth Rate** → Büyüme oranı  
 
-KOHORT Analizi : ortak özelliklere sahip insan analizi
+---
 
-RFM ile Müşteri Segmentasyonu 
-R: recency (yenilik)
- F: frequency (sıklık) 
-M: monetary (parasal değer)
+### Kohort Analizi  
+Ortak özelliklere sahip müşteri gruplarının analizi  
 
-R-F-M —-> RFM Metrikleri —---> RFM Skorları —----> skorlar üzerinden segmentler oluşturma
+---
 
-Customer Lifetime Value (Müşteri Yaşam Boyu Değeri) 
-Bir müşterinin bir şirketle kurduğu ilişki iletişim süresince şirkete kazandırdığı parasal değer
+### **RFM ile Müşteri Segmentasyonu**  
 
-Nasıl hesaplanır 
-Satın alma başına ortalam kazanç * satın alma sayısı —---> Temelde
+- **R:** Recency (Yenilik)  
+- **F:** Frequency (Sıklık)  
+- **M:** Monetary (Parasal Değer)  
 
-Customer Value = Average order value * purchase frequency 
-CLTV = (Customer value/.Churn Rate) * profit margin 
-Average Order Value = Total Price / Total Transaction 
-Purchase Frequency = Total Transaction / Total number of customers 
-Churn Rate = 1 - Repeat Rate
-Repeat Rate: birden fazla alışveriş yapan müşteri sayısı / Tüm müşteriler 
-Profit Margin = Total price * 0.10 
-CLTV değerlerine göre sıralama yapılır ve gruplara ayrılarak segmentlere ayrılması sağlanır.
+**RFM Süreci:**  
+R-F-M → **RFM Metrikleri** → **RFM Skorları** → Skorlar üzerinden **segmentler oluşturma**  
+
+---
+
+### **Customer Lifetime Value (Müşteri Yaşam Boyu Değeri - CLTV)**  
+Bir müşterinin bir şirketle kurduğu ilişki süresince şirkete kazandırdığı parasal değer  
+
+#### **Nasıl Hesaplanır?**  
+**Temel Formül:**  
+\[
+\text{Satın alma başına ortalama kazanç} \times \text{Satın alma sayısı}
+\]
+
+**Detaylı Formül:**  
+\[
+\text{Customer Value} = \text{Average Order Value} \times \text{Purchase Frequency}
+\]
+\[
+\text{CLTV} = \left( \frac{\text{Customer Value}}{\text{Churn Rate}} \right) \times \text{Profit Margin}
+\]
+
+**Bileşenler:**  
+- **Average Order Value** = Total Price / Total Transaction  
+- **Purchase Frequency** = Total Transaction / Total Number of Customers  
+- **Churn Rate** = 1 - Repeat Rate  
+- **Repeat Rate** = (Birden fazla alışveriş yapan müşteri sayısı) / (Tüm müşteriler)  
+- **Profit Margin** = Total Price × 0.10  
+
+CLTV değerlerine göre sıralama yapılır, **gruplara ayrılarak segmentler oluşturulur.**
